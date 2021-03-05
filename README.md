@@ -15,7 +15,7 @@ Contact contact@sensingself.me.
 ​
 ## Step 1: Set Up Your Development Environment
 ​
-- Download the latest Reader SDK from https://https://github.com/sensingself/SensingSelf-Urine-Reader-IOS-SDK
+- Download the latest Reader SDK from https://github.com/sensingself/SensingSelf-Urine-Reader-IOS-SDK
 - Unzip the Reader SDK
 - Drag Reader.xcframework to your project.
 - Check “Copy items if needed”.
