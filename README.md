@@ -103,6 +103,10 @@ The result should look something like this:
 }
 ```
 
+Please see [Urine Scan Reference Guide](Urine_Scan_Reference_Guide_FINAL_2.1.png) for more information.
+
+![Urine Scan Reference Guide](Urine_Scan_Reference_Guide_FINAL_2.1.png).
+
 ## LICENSE
 
 See the [LICENSE](LICENSE) file.
